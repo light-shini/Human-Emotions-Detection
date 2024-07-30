@@ -1,6 +1,4 @@
-Certainly! Here’s an updated README that includes a section specifically about the NLP (Natural Language Processing) aspects of your project:
 
-```markdown
 # Emotion Detection from Text
 
 This project is a machine learning and deep learning-based solution for detecting emotions from text. The model classifies text into various emotions such as sadness, joy, anger, love, and more.
