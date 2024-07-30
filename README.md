@@ -1,7 +1,7 @@
 
 # Emotion Detection from Text
 
-This project is a machine learning and deep learning-based solution for detecting emotions from text. The model classifies text into various emotions such as sadness, joy, anger, love, and more.
+This project is a machine learning and NLP solution for detecting emotions from text. The model classifies text into various emotions such as sadness, joy, anger, love, and more.
 
 ## Table of Contents
 
